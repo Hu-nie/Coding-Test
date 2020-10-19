@@ -1,6 +1,8 @@
-# 코딩 테스트
+# 코딩 테스트 - Python
+
+
 
 ***
 
-* 자료형 
+* Data type
 * Greedy Algorithm
