@@ -2,4 +2,5 @@
 
 ***
 
+* 자료형 
 * Greedy Algorithm
