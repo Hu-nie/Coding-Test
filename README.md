@@ -5,4 +5,9 @@
 ***
 
 * Data type
-* Greedy Algorithm
+* Greedy Algorithm (Soon)
+* DFS & BFS (Soon)
+* Sort (Soon)
+* Search (Soon)
+* Dynamic Programming (Soon)
+* 
